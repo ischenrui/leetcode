@@ -25,7 +25,7 @@ while(lo <= hi): #二分
         lo = c1 + 1
     else:break
 print((max(L1,L2)+ min(R1,R2))/2.0)
-
+#https://blog.csdn.net/hk2291976/article/details/51107778  其中有错误，已改正
 
 """
 
