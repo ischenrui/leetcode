@@ -1,3 +1,4 @@
+# https://leetcode-cn.com/problems/longest-palindromic-substring/description/
 s = "cccc"
 
 if len(s)==1:print(s)

@@ -1,3 +1,4 @@
+# https://leetcode-cn.com/problems/palindrome-number/description/
 x =0
 s = str(x)
 
