@@ -64,7 +64,7 @@ while r.next:
     r=r.next
     print(r.val)
 
-#---最优解答
+#---最优解答（没有链接原有节点）
 # class Solution:
 #     def mergeKLists(self, lists):
 #         l = []
